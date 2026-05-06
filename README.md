@@ -142,11 +142,18 @@ MIT — see `LICENSE`.
 If you use this code in your work, please cite the associated paper:
 
 ```bibtex
-@article{kozlov2025curieswitch,
-  title   = {All-electrical operation of a {Curie} switch at room temperature},
-  author  = {Kozlov, Oleksii and others},
-  journal = {Physical Review Applied},
-  year    = {2025},
-  note    = {accepted}
+@article{IurchukCurieswitch,
+  title = {All-Electrical Operation of a Curie Switch at Room Temperature},
+  author = {Iurchuk, Vadym and Kozlov, Oleksii and Sorokin, Serhii and Zhou, Shengqiang and Lindner, J\"urgen and Reshetniak, Serhii and Kravets, Anatolii and Polishchuk, Dmytro and Korenivski, Vladislav},
+  journal = {Phys. Rev. Appl.},
+  volume = {20},
+  issue = {2},
+  pages = {024009},
+  numpages = {8},
+  year = {2023},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.20.024009},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.20.024009}
 }
 ```
