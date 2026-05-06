@@ -4,7 +4,7 @@ Fits experimental VSM data for **bilayer magnetic thin-film** systems using a tw
 
 This code was used in the analysis behind the publication:
 
-> O. Kozlov *et al.*, **"All-electrical operation of a Curie switch at room temperature"**, *Physical Review Applied* (accepted).
+> V.Iurchuck, O. Kozlov, S.Sorokin *et al.*, **"All-electrical operation of a Curie switch at room temperature"**, *Physical Review Applied* (accepted).
 
 ---
 
